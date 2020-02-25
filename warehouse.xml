@@ -1,0 +1,9 @@
+<updatesChangeLog>
+	<changeSet>
+		<author>joebordes</author>
+		<description>Warehouse Perspective</description>
+		<filename>modules/Warehouse/installMultiWareHouse.php</filename>
+		<classname>installMultiWareHouse</classname>
+		<systemupdate>true</systemupdate>
+	</changeSet>
+</updatesChangeLog>	
